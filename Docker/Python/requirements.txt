@@ -1,0 +1,6 @@
+Django
+ pika
+ pymongo
+ django_elasticsearch_dsl
+ python-logstash
+ python-statemachine
